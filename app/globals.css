@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+@theme {
+  /* This creates the utility classes: text-airbnb, bg-airbnb, border-airbnb, etc. */
+  --color-airbnb: #FF385C;
+
+  /* This creates the utility classes: text-airbnb-dark, bg-airbnb-50, border-airbnb-dark, etc. */
+  --color-airbnb-dark: #D50027;
+}
+
+
